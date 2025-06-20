@@ -4,9 +4,9 @@
 
 A web-based Book Recommender System built with Flask, using collaborative filtering and book rating data to suggest books based on user preferences.
 
-![Book Cover](screenshots/src1.jpg)
-![Book Cover](screenshots/src2.jpg)
-![Book Cover](screenshots/src3.jpg)
+![Book Cover](screenshots/src1.png)
+![Book Cover](screenshots/src2.png)
+![Book Cover](screenshots/src3.png)
 
 
 ---
